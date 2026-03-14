@@ -1,121 +1,100 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=booting+geervanOS...;loading+modules:+systems+ai+automation;initializing+dev+environment;ready." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=850&lines=booting+geervan.dev...;systems+%7C+ai+agents+%7C+automation;react+%7C+flutter+%7C+backend+systems;building+things+that+probably+shouldn't+exist" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Geervan&label=system%20visits&color=blue&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Geervan&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-```id="u12ydo"
-[ boot log ]
+# 👾 who am I
 
-initializing developer environment...
-loading curiosity engine...
-checking system modules...
-status: operational
-```
+I'm **Geervan**, a 2nd year computer science student who spends a lot of time building strange software experiments.
+
+I’m not particularly interested in cloning the same SaaS dashboard for the hundredth time.  
+I like poking weird ideas in software just to see what happens.
+
+Some of the directions this curiosity usually goes:
+
+- chaotic cryptography simulations
+- automation bots that remove annoying workflows
+- AI-assisted developer tooling
+- interactive 3D environments on the web
+- tools solving oddly specific problems
+
+Most projects start with something like:
+
+> "this probably shouldn't work… but let's try it."
+
+---
+# 🧪 experiments / projects
+
+### 🧊 MUJSLCM Unofficial Client for Mobile
+
+A Curiosity based side project for making our college's SLCM more accessible by turning it into a mobile app
+
+Flutter + Dart for the chaos that unloaded,Cant share due to obvious reason HoD knows about it XDDD but yes it works 
 
 ---
 
-# /whoami
+### 🧊 Rubik Cube Cryptography Simulator
 
-Geervan
+A cryptography experiment where a **3D Rubik's Cube acts as a dynamic symmetric key**.
 
-Computer science student exploring **unusual software ideas**.
+Three.js + WebRTC experiment exploring chaotic transformations for encryption.
 
-Most developers build SaaS dashboards.
-
-I tend to build things like:
-
-* chaotic cryptography experiments
-* automation bots
-* AI-assisted developer tools
-* interactive 3D environments
-* tools solving oddly specific problems
-
-Most projects start with:
-
-> "this is probably a bad idea... let's try it."
+🔗 [Github](https://github.com/Geervan/Cube-Cryptography-Sim)
+🔗 [Live Demo](https://geervan-cube-cryptography.vercel.app/)
 
 ---
 
-# /filesystem
+### 🤖 GitHub PR Review Bot
 
-```
-/geervan
-│
-├── /experiments
-│   ├── cube-crypto
-│   ├── cosmos-classroom
-│   ├── automation-bots
-│   └── mobile-tools
-│
-├── /systems
-│   ├── ai-agents
-│   ├── dev-automation
-│   └── creative-computing
-│
-└── /stack
-```
+AI-assisted workflow bot that analyzes pull requests and generates structured review feedback.
+
+Built to reduce friction in developer code reviews.
+
+🔗 [Github](https://github.com/Geervan/PR-Bot)
+🔗 [Live Demo](https://github.com/apps/geervan-pr-reviewer)
 
 ---
 
-# /modules
+### 🌌 Cosmos Classroom
 
-### 🧊 cube-crypto
+A **3D virtual learning environment** built with React and Three.js exploring spatial study spaces.
 
-Rubik cube driven cryptography experiment where a **3D cube acts as a dynamic symmetric key**.
-
-Three.js + WebRTC used to simulate chaotic encryption states.
-
-🔗 https://geervan.vercel.app/projects
+🔗 [Github](https://github.com/Geervan/Cosmos-Classroom)
+🔗 [Live Demo](https://void-nine-kohl.vercel.app/)
 
 ---
 
-### 🤖 pr-review-bot
+### 🛰 SpaceBasic Bot
 
-AI-assisted bot analyzing pull requests and generating **structured code review feedback**.
-
-Built to reduce friction in developer workflows.
-
-🔗 https://geervan.vercel.app/projects
-
----
-
-### 🌌 cosmos-classroom
-
-Experimental **3D learning environment** built with React + Three.js exploring spatial study spaces.
-
-🔗 https://geervan.vercel.app/projects
-
----
-
-### 🛰 spacebasic
-
-Automation bot interacting with the student management system for:
+Automation bot interacting with the student management system to handle:
 
 * housekeeping requests
 * attendance scraping
 
 Python + Playwright automation.
 
-🔗 https://geervan.vercel.app/projects
+🔗 [Github](https://github.com/Geervan/SpaceBasic-Automation)
+
 
 ---
 
-### 📱 class-item-reminder
+### 📱 Class Item Reminder
 
-Flutter tool preventing students from forgetting their belongings after class.
+Flutter mobile tool that reminds students to collect their belongings after class.
 
-Uses checklist workflows and smart reminders.
+Uses checklist workflows and timed reminders.
 
-🔗 https://geervan.vercel.app/projects
+🔗 [Github](https://github.com/Geervan/class_reminder)
+🔗 [Live Demo](https://github.com/Geervan/class_reminder/releases/tag/V.1.0.0)
 
 ---
 
-# /runtime
+# ⚙️ tech stack
 
 <p align="center">
 
@@ -137,29 +116,42 @@ Uses checklist workflows and smart reminders.
 
 ---
 
-# /ai
+# 🤖 AI & automation
 
 ```
-ai-agents
-claude
-copilot
-cursor
-automation workflows
+AI agents
+Claude
+Copilot
+Cursor
+automation tooling
+Playwright
 ```
 
 ---
 
-# /external
+# 🌐 external interface
 
-portfolio → https://geervan.vercel.app
-github → https://github.com/Geervan
+<p align="center">
+
+<a href="https://github.com/Geervan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://geervan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/geervan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
 
 ---
 
-```id="99pgr4"
-system status
-
-curiosity: high
+```
+status: building strange software
+uptime: unknown
 entropy: increasing
-next experiment: unknown
 ```
