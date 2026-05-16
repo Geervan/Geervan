@@ -1,58 +1,157 @@
-<div align="center">
-  <img src="discord-card.svg" alt="Geervan's Discord-style profile card" width="100%"/>
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=850&lines=booting+geervan.dev...;systems+%7C+ai+agents+%7C+automation;react+%7C+flutter+%7C+backend+systems;building+things+that+probably+shouldn't+exist" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Geervan&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
 ---
-`/whois @Geervan`
-> 2nd year CS student building software that makes no sense on paper but somehow works anyway.
-> I don't care about cloning the same SaaS dashboard for the hundredth time.
-> I like poking weird ideas in software just to see what happens — chaotic cryptography, automation bots,
-> AI dev tooling, 3D browser environments, and tools solving oddly specific problems no one asked for.
->
-> Most projects start with: **"this probably shouldn't work… but let's try it."**
+
+# 👾 who am I
+
+I'm **Geervan**, a 2nd year computer science student who spends a lot of time building strange software experiments.
+
+I’m not particularly interested in cloning the same SaaS dashboard for the hundredth time.  
+I like poking weird ideas in software just to see what happens.
+
+Some of the directions this curiosity usually goes:
+
+- chaotic cryptography simulations
+- automation bots that remove annoying workflows
+- AI-assisted developer tooling
+- interactive 3D environments on the web
+- tools solving oddly specific problems
+
+Most projects start with something like:
+
+> "this probably shouldn't work… but let's try it."
+
 ---
-`# experiments`
-🧊 Rubik Cube Cryptography Simulator
-`wild` `Three.js` `WebRTC` `cryptography`
-A 3D Rubik's Cube functioning as a dynamic symmetric key. The idea: map cube state → encryption key, use chaotic rotations as the transformation layer. Beautifully impractical. Genuinely interesting.
-→ GitHub · → Live Demo
+# 🧪 experiments / projects
+
+### 🧊 MUJSLCM Unofficial Client for Mobile
+
+A Curiosity based side project for making our college's SLCM more accessible by turning it into a mobile app
+
+Flutter + Dart for the chaos that unloaded,Cant share due to obvious reason HoD knows about it XDDD but yes it works 
+
 ---
-🤖 GitHub PR Review Bot
-`ai` `Claude API` `GitHub API` `developer tooling`
-AI-assisted bot that actually reads your pull requests and generates structured review feedback. Built to eliminate the friction of manually reviewing PRs — because nobody enjoys doing that 20 times a sprint.
-→ GitHub · → Install
+
+### 🧊 Rubik Cube Cryptography Simulator
+
+A cryptography experiment where a **3D Rubik's Cube acts as a dynamic symmetric key**.
+
+Three.js + WebRTC experiment exploring chaotic transformations for encryption.
+
+🔗 [Github](https://github.com/Geervan/Cube-Cryptography-Sim)
+🔗 [Live Demo](https://geervan-cube-cryptography.vercel.app/)
+
 ---
-📱 MUJSLCM Unofficial Mobile Client
-`mobile` `Flutter` `Dart` `college chaos`
-Our college's SLCM is a web app from a different era, completely unusable on a phone. So I turned it into a proper mobile app. Can't open source it for obvious reasons. The HoD knows it exists. It runs flawlessly. Students use it daily.
-`classified · nda vibes`
+
+### 🤖 GitHub PR Review Bot
+
+AI-assisted workflow bot that analyzes pull requests and generates structured review feedback.
+
+Built to reduce friction in developer code reviews.
+
+🔗 [Github](https://github.com/Geervan/PR-Bot)
+🔗 [Live Demo](https://github.com/apps/geervan-pr-reviewer)
+
 ---
-🌌 Cosmos Classroom
-`3d` `React` `Three.js` `spatial learning`
-A 3D virtual learning environment that explores what spatial study spaces could look like on the open web. Genuinely weird. Genuinely interactive. One of those projects where the experiment is the point.
-→ GitHub · → Live Demo
+
+### 🌌 Cosmos Classroom
+
+A **3D virtual learning environment** built with React and Three.js exploring spatial study spaces.
+
+🔗 [Github](https://github.com/Geervan/Cosmos-Classroom)
+🔗 [Live Demo](https://void-nine-kohl.vercel.app/)
+
 ---
-🛰 SpaceBasic Automation Bot
-`bot` `Python` `Playwright` `student systems`
-Automation bot that cuts through the manual overhead of student system interactions — housekeeping requests, attendance scraping, repetitive workflows. Playwright doing the clicking so humans don't have to.
-→ GitHub
+
+### 🛰 SpaceBasic Bot
+
+Automation bot interacting with the student management system to handle:
+
+* housekeeping requests
+* attendance scraping
+
+Python + Playwright automation.
+
+🔗 [Github](https://github.com/Geervan/SpaceBasic-Automation)
+
+
 ---
-⏰ Class Item Reminder
-`mobile` `Flutter` `oddly specific`
-A Flutter app that reminds students to collect their stuff after class. Sounds trivial. Solves a real problem. Classic "this is so small it loops back to being interesting."
-→ GitHub · → Release v1.0.0
+
+### 📱 Class Item Reminder
+
+Flutter mobile tool that reminds students to collect their belongings after class.
+
+Uses checklist workflows and timed reminders.
+
+🔗 [Github](https://github.com/Geervan/class_reminder)
+🔗 [Live Demo](https://github.com/Geervan/class_reminder/releases/tag/V.1.0.0)
+
 ---
-`$ stack --list`
+
+# ⚙️ tech stack
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+
+</p>
+
+---
+
+# 🤖 AI & automation
+
 ```
-frontend      →  React · Next.js · Flutter · Tailwind · TypeScript
-backend       →  Node.js · Python · C++
-databases     →  PostgreSQL · MongoDB
-visualization →  Three.js · WebRTC
-automation    →  Playwright
-ai / llms     →  Claude API · Copilot · Cursor
+AI agents
+Claude
+Copilot
+Cursor
+automation tooling
+Playwright
 ```
+
 ---
-<div align="center">
+
+# 🌐 external interface
+
+<p align="center">
+
+<a href="https://github.com/Geervan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://geervan.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/geervan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+
+---
+
 ```
-● online  ·  entropy: increasing  ·  uptime: unknown  ·  last seen: writing code at 2am
+status: building strange software
+uptime: unknown
+entropy: increasing
 ```
-</div>
